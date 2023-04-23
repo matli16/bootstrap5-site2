@@ -1,0 +1,27 @@
+.p-text{
+    text-align: justify;
+
+}
+.p-link{
+    text-decoration: none;
+    color: red;
+}
+/* ziyaret edilmemiş link için eklenecek css kodları */
+a:link {
+    color: red;
+}
+
+/* ziyaret edilmiş link için eklenecek css kodları */
+a:visited {
+    color: green;
+}
+
+/* link üzerine geldiğimiz anda eklenecek css kodları */
+a:hover {
+    color: hotpink;
+}
+
+/* linke tıkladığımız anda eklenecek css kodları */
+a:active {
+    color: blue;
+}
