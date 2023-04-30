@@ -18,6 +18,19 @@ a{
     color: red;
     text-align: center;
 }
+@media(max-width:991.98px) {
+    .ort{
+        text-align: center;
+    }
+.card-body{
+    height: 100px;
+    margin-top: -10px;
+    text-align: center;
+}
+.ort2{
+    text-align: center;
 
+}
+}
 
 
